@@ -40,7 +40,7 @@ const HeroSection = () => (
 
       {/* 3. Logopost logo — main anchor */}
       <motion.div {...fadeUp(0.4)}>
-        <LogopostLogo className="h-10 md:h-12 w-auto" />
+        <img src={logo} alt="Sono logo" className="h-10 md:h-12 w-auto" />
       </motion.div>
 
       {/* 3.5 Tagline */}
