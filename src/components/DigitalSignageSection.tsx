@@ -2,17 +2,17 @@ import { motion } from "framer-motion";
 import ScrollReveal from "./ScrollReveal";
 import cmsDashboard from "@/assets/dashboard-mockup.png";
 import player from "@/assets/android-media-player.jpg";
-import totemMain from "@/assets/totem-main.jpg";
-import totem1 from "@/assets/totem-1.jpg";
-import totem2 from "@/assets/totem-2.jpg";
-import totem3 from "@/assets/totem-3.jpg";
-import totem4 from "@/assets/totem-4.jpg";
-import totem5 from "@/assets/totem-5.jpg";
+import totemMain from "@/assets/square.png";
+import totem1 from "@/assets/eco.png";
+import totem2 from "@/assets/window.png";
+import totem3 from "@/assets/touch.png";
+import totem4 from "@/assets/posh.png";
+import totem5 from "@/assets/crew.png";
 import epaperDisplay from "@/assets/epaper-display.png";
-import tabletWallView from "@/assets/mount-wall.png";
-import tabletPortrait from "@/assets/mount-portrait.png";
-import tabletAngle from "@/assets/mount-angle.png";
-import tabletPlane from "@/assets/mount-plane.png";
+import tabletWallView from "@/assets/wall.png";
+import tabletPortrait from "@/assets/portrait.png";
+import tabletAngle from "@/assets/angle.png";
+import tabletPlane from "@/assets/mplane.png";
 
 const catalogItems = [
   {
