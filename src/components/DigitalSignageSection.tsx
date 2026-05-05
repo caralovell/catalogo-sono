@@ -12,7 +12,7 @@ import epaperDisplay from "@/assets/epaper-display.png";
 import tabletWallView from "@/assets/wall.png";
 import tabletPortrait from "@/assets/portrait.png";
 import tabletAngle from "@/assets/angle.png";
-import tabletPlane from "@/assets/mplane.png";
+import tabletPlane from "@/assets/plane.png";
 
 const catalogItems = [
   {
