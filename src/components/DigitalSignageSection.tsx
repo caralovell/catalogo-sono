@@ -8,7 +8,7 @@ import totem2 from "@/assets/window.png";
 import totem3 from "@/assets/touch.png";
 import totem4 from "@/assets/posh.png";
 import totem5 from "@/assets/crew.png";
-import epaperDisplay from "@/assets/epaper-display.png";
+import epaperDisplay from "@/assets/epaper.png";
 import tabletWallView from "@/assets/wall.png";
 import tabletPortrait from "@/assets/portrait.png";
 import tabletAngle from "@/assets/angle.png";
