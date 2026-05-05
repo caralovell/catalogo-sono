@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
 import LogopostLogo from "./LogopostLogo";
+import logo from "@/assets/sono.png";
 
 const fadeUp = (delay: number) => ({
   initial: { opacity: 0, y: 16 },
@@ -29,9 +30,7 @@ const HeroSection = () => (
     <div className="relative z-10 flex flex-col items-center gap-8 max-w-3xl w-full">
       {/* 1. Client logo placeholder */}
       <motion.div {...fadeUp(0.1)}>
-        <div className="h-24 md:h-28 w-48 md:w-56 border-2 border-dashed border-muted-foreground/40 rounded-md flex items-center justify-center text-muted-foreground/70 text-sm uppercase tracking-[0.3em]">
-          Logo
-        </div>
+        <logo className="h-10 md:h-12 w-auto" />
       </motion.div>
 
       {/* 2. Label */}
